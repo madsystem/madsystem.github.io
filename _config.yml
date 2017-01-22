@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: knollix.wtf
 description: > 
-    Welcome to the virtual home of a dev named Kristofer 'kris' Knoll.    
+    Welcome to the virtual home of a dev named Kristofer 'Kris' Knoll.    
     Have fun :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
