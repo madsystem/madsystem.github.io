@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Welcome to the strange world of knollix.wtf.
 
-You can find the source code for the Jekyll new theme at:
+This will be the virtual home of Kristofer 'Kris' Knoll. This site will be focusing, most likley, on development related topics. Also I will try to present projects I am working on.
 
-blaaaaaaaa

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "It's Alive!"
+date:   2017-01-21 20:25:20 +0100
+---
+Dear passenger: Welcome. 
+
+This is my n'th try to keep an online presence up and alive. 
+Main focus will be programming / dev related topics (I guess) and if I have time
+ill also try to blog.
+
+This time i'll use [jekyll-gh]Jekyll with the [swiss]swiss theme. For my cv page I use [cv-gh] online-cv.
+Thanks to the creators for creating something fancy in an easy manner.
+
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[swiss-gh]: https://github.com/broccolini/swiss
+[cv-gh]: https://github.com/sharu725/online-cv

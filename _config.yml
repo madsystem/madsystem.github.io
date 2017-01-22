@@ -15,12 +15,18 @@
 # in the templates via {{ site.myvariable }}.
 title: knollix.wtf
 description: > 
-    Welcome to the virtual home of a dev named Kristofer "kris" Knoll.    
+    Welcome to the virtual home of a dev named Kristofer 'kris' Knoll.    
     Have fun :)
-email: madsystem@posteo.de
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+name: Kristofer Knoll
+email: madsystem@posteo.de
+website: knollix.wtf
+linkedin: kristofer-knoll
+twitter: _madsystem_
 github_username: madsystem
+pic: profile.jpg
 #github_repo:  blub
 
 social_link: twitter
