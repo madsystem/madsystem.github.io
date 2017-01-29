@@ -12,7 +12,7 @@
   {% assign full_base_url = user_url | default: site.github.url %}
   <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: full_base_url }}">
 
-  {% if page.layout == 'cv' %}  
+  {% if page.layout == 'cv' or  page.layout == 'cv_hidden' %}  
   <!-- For cv only relevant. Need to clean up this mess -->
   <link rel="stylesheet" href="{{ "/assets/css/cv.css" | prepend: full_base_url }}">
   <link rel="stylesheet" href="{{ "/assets/plugins/bootstrap/css/bootstrap.min.css" | prepend: full_base_url }}">
