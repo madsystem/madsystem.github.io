@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Debug Native Android Apps with GDB!"
+title:  "Debug Native Android Apps with GDB"
 date:   2017-04-06 17:24:30 +0100
 ---
 
