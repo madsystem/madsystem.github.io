@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Debug Native Android Apps with GDB!"
+date:   2017-04-06 17:24:30 +0100
+---
+
 The project I am working on is utilizing the Atomic Game Engine (AGE - https://www.atomicgameengine.com/). AGE is using a custom toolchain (jake, cmake and ant) to build an apk. Due to the custom toolchain integrating or debuging your project with tools like AndroidStudio or ndk-debug is not easy. Thats why I just wanted to connect gdb to a none stripped android process and debug it via a gdb client. 
 
 After a lot of "Dr Google" I found two articles which I found pretty usefull to get the whole thing running. You should read them if something is unclear in this article! [Native Debugging with Qt Creator](https://fw4spl-org.github.io/fw4spl-blog/2015/07/27/Native-debugging-on-Android-with-QtCreator.html)   and [Android debugging with Remote GDB](https://github.com/mapbox/mapbox-gl-native/wiki/Android-debugging-with-remote-GDB). Thanks to the authors!
