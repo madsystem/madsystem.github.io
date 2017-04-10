@@ -1,5 +1,9 @@
-# Connect Visual Code to a Native Android App 
- 
+---
+layout: post
+title:  "Connect Visual Code to a Native Android App"
+date:   2017-04-10 17:37 +0100
+---
+
 The last post was about getting gdb connected to a running Native Android Application. The gdb shell can be ok in most cases, but lacks convenience features. So I did some research and found [this](https://github.com/WebFreak001/code-debug) extension for Visual Code which I wanted to test.  
  
 So first install the plugin via Visual Code extension manager. Then start the gdbserver on your device (see previous article). When this is done we need to open our project folder (for me this was the Atomic Age Engine root folder) and create an ```launch.json``` file. Mine looks like this:
