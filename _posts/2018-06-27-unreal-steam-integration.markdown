@@ -1,4 +1,4 @@
-So I started with a steam / unreal integration. There where several issues which took quite a time to figure out. Due to the fact that documentation is pretty lacking I decided that I will publish a list which hopefully helps other devs in getting started and/or troubleshooting. 
+So I started with a Steam / Unreal integration. There where several issues which took quite a time to figure out. Due to the fact that documentation is pretty lacking I decided that I will publish a list which hopefully helps other devs in getting started and/or troubleshooting. 
 
 Just be aware it is the first time for me working with the steam framework and the game I am working is not shipped yet so this list is not complete.
 
