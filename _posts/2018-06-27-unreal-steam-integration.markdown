@@ -10,6 +10,7 @@ Just be aware it is the first time for me working with the steam framework and t
 - For proper steam integration tests you should use two seperate machines.
 - The SteamDevAppId property in the DefaultEngine.ini is only for developme.nt builds
   - For shipping builds you need to put an steam_appid.txt file inside your win64 folder.
+- When you are using a app id diffrent than 480 you need to launch your game through steam.
 
 
 I hope this list will help fellow developers. 
